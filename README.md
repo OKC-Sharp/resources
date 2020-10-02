@@ -19,3 +19,5 @@
 [Programming with Mosh youtube video series on C# Basics](https://www.youtube.com/watch?v=gfkTfcpWqAY&t=1s)
 
 [Kudvenkat youtube video series on C#](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
+
+[C# Programming Yellow Book - Rob Miles](http://www.csharpcourse.com/)
